@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Test
+      value: Another Test
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
