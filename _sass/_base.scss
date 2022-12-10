@@ -19,8 +19,13 @@ strong {
   color: var(--global-text-color);
 }
 
-div.clearfix {
-  text-align: justify;
+p,
+li {
+  font-family: serif;
+}
+
+h1 {
+  font-size: 3rem;
 }
 
 hr {
@@ -39,9 +44,9 @@ table {
 
 a,
 table.table a {
-  color: var(--global-theme-color);
+  color: #1301ff;
   &:hover {
-    color: var(--global-theme-color);
+    color: #0000ff;
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {
