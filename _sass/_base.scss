@@ -19,9 +19,14 @@ strong {
   color: var(--global-text-color);
 }
 
+//body::-webkit-scrollbar {
+//  display: none;
+//}
+
 p,
 li {
   font-family: serif;
+  font-size: large;
 }
 
 h1 {
